@@ -23,7 +23,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a third-year Computer Science undergrad specializing in Data Science, building end-to-end ML systems rather than notebook demos — from geospatial pipelines to multi-agent research tools. I care about work that's honest about tradeoffs and grounded in real data, not just polished on the surface.
+I'm a forth-year Computer Science undergrad specializing in Data Science, building end-to-end ML systems rather than notebook demos — from geospatial pipelines to multi-agent research tools. I care about work that's honest about tradeoffs and grounded in real data, not just polished on the surface.
 
 - 🎓 B.Tech CSE (Data Science), graduating 2027
 - 🔬 Currently pursuing research collaborations in NLP and agentic systems
